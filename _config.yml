@@ -1,0 +1,7 @@
+auto: true
+permalink: pretty
+pygments: true
+lsi: false
+
+exclude:
+  - README.md
