@@ -9,13 +9,13 @@ the mailing list!
 
 ## Basic Concepts
 
- + Tutorial: [Testing a Hello World Process](http://static.se.uni-hannover.de/lehre/tutorials/BPELUnit-HelloBPEL.php)
- + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part I](http://static.se.uni-hannover.de/lehre/tutorials/BPELUnit-Coverage1.php)
- + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part II](http://static.se.uni-hannover.de/lehre/tutorials/BPELUnit-Coverage2.php)
+ + Tutorial: [Testing a Hello World Process](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_hellobpel)
+ + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part I](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_coverage_part_1)
+ + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part II](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_coverage_part_2)
 
 ## Advanced Testing Concepts
 
- + [Mocking in BPELUnit](http://static.se.uni-hannover.de/lehre/tutorials/BPELUnit-Mock.php)
+ + [Mocking in BPELUnit](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_mock)
  {% comment %}
  <!--<li>Testing long-running Processes</li> -->
  <!--li><a href="http://www.se.uni-hannover.de/forschung/soa/bpelunit/testing-fault-scenarios.php">Testing Fault Scenarios</a> (under construction)</li-->
