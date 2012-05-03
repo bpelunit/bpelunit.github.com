@@ -11,6 +11,9 @@ Available Software tab. Click Add Site... and enter
 [`http://update.bpelunit.net`](http://update.bpelunit.net) as the 
 new site's location. Click OK. 
 
+Alternatively, you can use the zipped update site available
+[here](http://search.maven.org/remotecontent?filepath=net/bpelunit/eclipse-update-site/1.6.0/eclipse-update-site-1.6.0-assembly.zip).
+
 Once the BPELUnit Update Site is added, simply check BPELUnit Update 
 Site, click Install... and follow the instructions. After Eclipse has 
 restarted, BPELUnit should be installed. 
@@ -27,13 +30,16 @@ tutorials:
 
 ## Installing BPELUnit standalone
 
-If you do not use Eclipse or yout want to also use the integration into 
-Apache Ant, you will need to have the standalone version of BPELUnit. 
-You can extract it to any directory, e.g. `C:\Program Files\` under 
-Windows. For starting BPELUnit in Windows, a batch file bpelunit.bat is 
-supplied. For the batch file to work, you have to set `BPELUNIT_HOME` to 
-the BPELUnit directory and `JAVA_HOME` to your Java installation 
-directory. 
+If you do not use Eclipse or you want to also use its Apache Ant task,
+you will need to have the standalone version of BPELUnit.
+
+Download it from
+[here](http://search.maven.org/remotecontent?filepath=net/bpelunit/dist/1.6.0/dist-1.6.0-standalone.tar.gz)
+and extract it to any directory, e.g. `C:\Program Files\` under
+Windows. For starting BPELUnit in Windows, a batch file bpelunit.bat
+is supplied. For the batch file to work, you have to set
+`BPELUNIT_HOME` to the BPELUnit directory and `JAVA_HOME` to your Java
+installation directory.
 
 
 
