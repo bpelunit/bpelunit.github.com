@@ -2,7 +2,7 @@
 layout: post
 title: "Version 1.6.0 released"
 author: Antonio García-Domínguez
-published: false
+published: true
 ---
 
 Version 1.6.0 has been released, with the following changes:
