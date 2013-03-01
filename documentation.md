@@ -2,13 +2,15 @@
 layout: default
 title: Documentation
 ---
- 
-There are various tutorials available for working with BPELUnit. We link 
+
+In addition to the [documentation](https://github.com/bpelunit/bpelunit/tree/master/net.bpelunit.dist/src/main/resources/doc) bundled with the BPELUnit binary distributions,
+there are various tutorials available for working with BPELUnit. We link 
 those we know that they exist. If you know others, please let us know on 
 the mailing list! 
 
 ## Basic Concepts
 
+ + The overall design of the BPELUnit framework is described in depth in [Philip Mayer's Master's Thesis](http://www.se.uni-hannover.de/pub/File/pdfpapers/Mayer2006a.pdf), which resulted in BPELUnit v1.0.
  + Tutorial: [Testing a Hello World Process](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_hellobpel)
  + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part I](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_coverage_part_1)
  + Tutorial: [Unit Testing BPEL processes with Test Coverage - Part II](http://www.se.uni-hannover.de/pages/en:tutorials_bpelunit_coverage_part_2)

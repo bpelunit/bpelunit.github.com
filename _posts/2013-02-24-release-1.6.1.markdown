@@ -5,7 +5,7 @@ author: Daniel Luebke
 published: true
 ---
 
-Version 1.6.1 has been released. This is small maintance release, which includes the following changes and improvements:
+Version 1.6.1 has been released. This is a small maintance release, which includes the following changes and improvements:
 
 * _Change_: Improve RPC handling of messages (WS-I BP 1.1 compliance)
 * _Change_: Update to cloning 1.9.0
