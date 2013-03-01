@@ -34,12 +34,9 @@ If you do not use Eclipse or you want to also use its Apache Ant task,
 you will need to have the standalone version of BPELUnit.
 
 Download it from
-[here](http://search.maven.org/remotecontent?filepath=net/bpelunit/dist/1.6.0/dist-1.6.0-standalone.tar.gz)
+[here](http://search.maven.org/remotecontent?filepath=net/bpelunit/dist/1.6.1/dist-1.6.1-standalone.tar.gz)
 and extract it to any directory, e.g. `C:\Program Files\` under
 Windows. For starting BPELUnit in Windows, a batch file bpelunit.bat
 is supplied. For the batch file to work, you have to set
 `BPELUNIT_HOME` to the BPELUnit directory and `JAVA_HOME` to your Java
 installation directory.
-
-
-
